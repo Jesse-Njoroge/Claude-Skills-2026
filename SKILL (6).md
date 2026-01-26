@@ -3,7 +3,7 @@ name: File-Organizer
 description: Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating cleanup tasks. Reduces cognitive load and keeps your digital workspace tidy without manual effort.
 ---
 
-# -File Organizer-
+# -File Organizer
 
 This skill acts as your personal organization assistant, helping you maintain a clean, logical file structure across your computer without the mental overhead of constant manual organization.
 
