@@ -3,7 +3,7 @@ name: domain-name-brainstormer
 description: Generates creative domain name ideas for your project and checks availability across multiple TLDs (.com, .io, .dev, .ai, etc.). Saves hours of brainstorming and manual checking.
 ---
 
-# Domain Name Brainstormer-
+# -Domain Name Brainstormer-
 
 This skill helps you find the perfect domain name for your project by generating creative options and checking what's actually available to register.
 
