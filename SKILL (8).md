@@ -26,8 +26,6 @@ This skill transforms technical git commits into polished, user-friendly changel
 5. **Filters Noise**: Excludes internal commits (refactoring, tests, etc.)
 6. **Follows Best Practices**: Applies changelog guidelines and your brand voice
 
-## How to Use
-
 ### Basic Usage
 
 From your project repository:
