@@ -7,7 +7,7 @@ description: Generates creative domain name ideas for your project and checks av
 
 This skill helps you find the perfect domain name for your project by generating creative options and checking what's actually available to register.
 
-## When to Use This Skill
+## -When to Use This Skill-
 
 - Starting a new project or company
 - Launching a product or service
