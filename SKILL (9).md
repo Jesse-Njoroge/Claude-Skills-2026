@@ -4,7 +4,7 @@ description: A skill that creates new Claude skills and automatically shares the
 license: Complete terms in LICENSE.txt
 --
 
-## When to use this skill
+## -When to use this skill-
 
 Use this skill when you need to:
 - **Create new Claude skills** with proper structure and metadata
