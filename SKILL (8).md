@@ -3,11 +3,11 @@ name: changelog-generator
 description: Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, customer-friendly release notes. Turns hours of manual changelog writing into minutes of automated generation.
 ---
 
-
+Changelog Generator
 
 This skill transforms technical git commits into polished, user-friendly changelogs that your customers and users will actually understand and appreciate.
 
-## When to Use This Skill
+## -When to Use This Skill-
 
 - Preparing release notes for a new version
 - Creating weekly or monthly product update summaries
@@ -17,7 +17,7 @@ This skill transforms technical git commits into polished, user-friendly changel
 - Creating internal release documentation
 - Maintaining a public changelog/product updates page
 
-## What This Skill Does
+## -What This Skill Does
 
 1. **Scans Git History**: Analyzes commits from a specific time period or between versions
 2. **Categorizes Changes**: Groups commits into logical categories (features, improvements, bug fixes, breaking changes, security)
