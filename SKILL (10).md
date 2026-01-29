@@ -7,7 +7,7 @@ description: Automatically creates user-facing changelogs from git commits by an
 
 This skill transforms technical git commits into polished, user-friendly changelogs that your customers and users will actually understand and appreciate.
 
-## When to Use This Skill
+## -When to Use This Skill-
 
 - Preparing release notes for a new version
 - Creating weekly or monthly product update summaries
