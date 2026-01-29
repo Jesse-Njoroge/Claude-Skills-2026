@@ -22,7 +22,7 @@ This skill is ideal for:
 - Automating the skill development pipeline
 - Collaborative skill creation with team notifications
 
-## Key Features
+## -Key Features-
 
 ### 1. Skill Creation
 - Creates properly structured skill directories with SKILL.md
