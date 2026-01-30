@@ -17,7 +17,7 @@ This skill transforms technical git commits into polished, user-friendly changel
 - Creating internal release documentation
 - Maintaining a public changelog/product updates page
 
-## What This Skill Does
+## -What This Skill Does-
 
 1. **Scans Git History**: Analyzes commits from a specific time period or between versions
 2. **Categorizes Changes**: Groups commits into logical categories (features, improvements, bug fixes, breaking changes, security)
