@@ -44,7 +44,7 @@ Generate changelog for all commits from the past week
 Create release notes for version 2.5.0
 ```
 
-### With Specific Date Range
+### -With Specific Date Range-
 
 ```
 Create a changelog for all commits between March 1 and March 15
