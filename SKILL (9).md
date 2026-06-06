@@ -46,7 +46,7 @@ This skill is ideal for:
 - Posts skill summary for team discovery
 - Provides direct links to skill files
 
-## How It Works
+## How It Works.
 
 1. **Initialization**: Provide skill name and description
 2. **Creation**: Skill directory is created with proper structure
@@ -54,7 +54,7 @@ This skill is ideal for:
 4. **Packaging**: Skill is packaged into a distributable format
 5. **Slack Notification**: Skill details are posted to your team's Slack channel
 
-## Example Usage
+## Example Usage.
 
 ```
 When you ask Claude to create a skill called "pdf-analyzer":
@@ -65,14 +65,14 @@ When you ask Claude to create a skill called "pdf-analyzer":
 5. Posts to Slack: "New Skill Created: pdf-analyzer - Advanced PDF analysis and extraction capabilities"
 ```
 
-## Integration with Rube
+## Integration with Rube.
 
 This skill leverages Rube for:
 - **SLACK_SEND_MESSAGE**: Posts skill information to team channels
 - **SLACK_POST_MESSAGE_WITH_BLOCKS**: Shares rich formatted skill metadata
 - **SLACK_FIND_CHANNELS**: Discovers target channels for skill announcements
 
-## Requirements
+## Requirements.
 
 - Slack workspace connection via Rube
 - Write access to skill creation directory
