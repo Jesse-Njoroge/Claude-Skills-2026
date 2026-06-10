@@ -21,7 +21,7 @@ description: Analyzes job descriptions and generates tailored resumes that highl
 3. **Tailors Content**: Reorganizes and emphasizes relevant experience, skills, and achievements
 4. **Optimizes Keywords**: Incorporates ATS-friendly keywords naturally throughout the resume
 5. **Formats Professionally**: Creates clean, professional resume layouts suitable for various formats
-6. **Provides Recommendations**: Suggests improvements and highlights gaps to address
+6. **Provides Recommendations**: Suggests improvements and highlights gaps to address in your resume
 
 ## How to Use
 
