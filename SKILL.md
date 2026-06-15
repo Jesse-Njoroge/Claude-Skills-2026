@@ -102,7 +102,7 @@ When a user requests lead research::
    For each lead, provide:
    - **Company Name** and website
    - **Why They're a Good Fit**: Specific reasons based on their business
-   - **Priority Score**: 1-10 with explanation
+   - **Priority Score**:: 1-10 with explanation
    - **Decision Maker**: Role/title to target (e.g., "VP of Engineering")
    - **Contact Strategy**: Personalized approach suggestions
    - **Value Proposition**: How your product solves their specific problem
