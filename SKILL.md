@@ -50,7 +50,7 @@ in [location/industry] that would benefit from this product.
 
 ### Advanced Usage
 
-For more targeted research::
+For more targeted research:
 
 ```
 My product: [description]
