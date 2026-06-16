@@ -89,7 +89,7 @@ When a user requests lead research::
    - Check for budget indicators
 
 4. **Prioritize and Score**
-   - Create a fit score (1-10) for each lead
+   - Create a fit score (1-20) for each lead
    - Consider factors like:
      - Alignment with ICP
      - Signals of immediate need
