@@ -95,7 +95,7 @@ guidelines from CHANGELOG_STYLE.md
 - Review and adjust the generated changelog before publishing
 - Save output directly to CHANGELOG.md
 
-## Related Use Cases
+## Related Use Cases.
 
 - Creating GitHub release notes
 - Writing app store update descriptions
