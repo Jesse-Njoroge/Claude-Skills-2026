@@ -7,7 +7,7 @@ description: Assists in writing high-quality content by conducting research, add
 
 This skill acts as your writing partner, helping you research, outline, draft, and refine content while maintaining your unique voice and style.
 
-## -When to Use This Skill-
+## -When to Use This Skill
 
 - Writing blog posts, articles, or newsletters
 - Creating educational content or tutorials
