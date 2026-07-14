@@ -251,7 +251,7 @@ For each job requirement:
 
 ### 7. Provide Strategic Recommendations
 
-After presenting the tailored resume, offer:
+After presenting the tailored resume, offer::
 
 **Strengths Analysis**:
 - What makes this candidate competitive
