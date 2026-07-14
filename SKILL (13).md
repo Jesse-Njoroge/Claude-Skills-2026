@@ -297,7 +297,7 @@ Ask if user wants to:
 - Use generic templates without customization
 - Exceed 2 pages unless very senior role
 
-### 10. Special Considerations
+### 10. Special Considerations.
 
 **Career Changers**:
 - Use functional or hybrid resume format
