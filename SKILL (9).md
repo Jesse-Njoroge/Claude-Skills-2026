@@ -54,7 +54,7 @@ This skill is ideal for:
 4. **Packaging**: Skill is packaged into a distributable format
 5. **Slack Notification**: Skill details are posted to your team's Slack channel
 
-## Example Usage.
+## Example Usage
 
 ```
 When you ask Claude to create a skill called "pdf-analyzer":
