@@ -46,7 +46,7 @@ This skill is ideal for:
 - Posts skill summary for team discovery
 - Provides direct links to skill files
 
-## How It Works.
+## How It Works
 
 1. **Initialization**: Provide skill name and description
 2. **Creation**: Skill directory is created with proper structure
