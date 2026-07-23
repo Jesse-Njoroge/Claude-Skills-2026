@@ -11,7 +11,7 @@ This skill helps you identify and qualify potential leads for your business by a
 
 - Finding potential customers or clients for your product/service
 - Building a list of companies to reach out to for partnerships
-- Identifying target accounts for sales outreach.
+- Identifying target accounts for sales outreach
 - Researching companies that match your ideal customer profile.
 - Preparing for business development activities.
 
