@@ -66,7 +66,7 @@ Find me 20 qualified leads with contact strategies for each.
 
 ## Instructions
 
-When a user requests lead research::
+When a user requests lead research:
 
 1. **Understand the Product/Service**
    - If in a code directory, analyze the codebase to understand the product
