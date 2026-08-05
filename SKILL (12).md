@@ -5,7 +5,7 @@ description: Toolkit for interacting with and testing local web applications usi
 
 # Web Application Testing
 
-To test local web applications, write native Python Playwright scripts.
+To test local web applications, write native Python Playwright scripts
 
 **Helper Scripts Available**
 - `scripts/with_server.py` - Manages server lifecycle (supports multiple servers)
