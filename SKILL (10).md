@@ -86,6 +86,7 @@ guidelines from CHANGELOG_STYLE.md
 
 **Inspired by:** Manik Aggarwal's use case from Lenny's Newsletter
 
+
 ## Tips
 
 - Run from your git repository root
