@@ -12,7 +12,7 @@ description: Analyzes job descriptions and generates tailored resumes that highl
 - Highlighting relevant experience for career transitions
 - Optimizing your resume for ATS (Applicant Tracking Systems)
 - Creating multiple resume versions for different job applications.
-- Emphasizing specific skills mentioned in job postings
+- Emphasizing specific skills mentioned in job postings.
 
 ## What This Skill Does
 
