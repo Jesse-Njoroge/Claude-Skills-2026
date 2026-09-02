@@ -7,7 +7,7 @@ description: Analyzes job descriptions and generates tailored resumes that highl
 
 ## When to Use This Skill
 
-- Applying for a specific job position.
+- Applying for a specific job position
 - Customizing your resume for different industries or roles.
 - Highlighting relevant experience for career transitions
 - Optimizing your resume for ATS (Applicant Tracking Systems)
