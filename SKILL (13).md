@@ -16,7 +16,7 @@ description: Analyzes job descriptions and generates tailored resumes that highl
 
 ## What This Skill Does
 
-1. **Analyzes Job Descriptions**: Extracts key requirements, skills, qualifications, and keywords from job postings
+1. **Analyzes Job Descriptions**: Extracts key requirements, skills, qualifications, and keywords from job postings.
 2. **Identifies Priorities**: Determines what employers value most based on the job description language and structure
 3. **Tailors Content**: Reorganizes and emphasizes relevant experience, skills, and achievements
 4. **Optimizes Keywords**: Incorporates ATS-friendly keywords naturally throughout the resume
