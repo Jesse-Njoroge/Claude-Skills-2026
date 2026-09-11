@@ -64,7 +64,7 @@ Here's my introduction. Help me make the hook more compelling.
 
 4. **Get section feedback**:
 ```
-I just finished the "Why This Matters" section. Review it and give feedback.
+I just finished the "Why This Matters" section. Review it and give  feedback.
 ```
 
 5. **Refine and polish**:
