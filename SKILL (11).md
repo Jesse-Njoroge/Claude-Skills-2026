@@ -39,7 +39,7 @@ cd ~/writing/my-article-title
 ```
 
 Create your draft file:
-```
+``
 touch article-draft.md
 ```
 
