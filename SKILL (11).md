@@ -5,7 +5,7 @@ description: Assists in writing high-quality content by conducting research, add
 
 # Content Research Writer
 
-This skill acts as your writing partner, helping you research, outline, draft, and refine content while maintaining your unique voice and style..
+This skill acts as your writing partner, helping you research, outline, draft, and refine content while maintaining your unique voice and style.
 
 ## When to Use This Skill
 
