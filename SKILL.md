@@ -26,7 +26,7 @@ This skill helps you identify and qualify potential leads for your business by a
    - Pain points your product solves
 3. **Prioritizes Leads**: Ranks companies based on fit score and relevance
 4. **Provides Contact Strategies**: Suggests how to approach each lead with personalized messaging
-5. **Enriches Data**: Gathers relevant information about decision-makers and company context
+5. **Enriches Data**: Gathers relevant information about decision-makers and company context.
 
 ## How to Use
 
