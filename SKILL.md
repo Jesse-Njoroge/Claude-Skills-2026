@@ -18,7 +18,7 @@ This skill helps you identify and qualify potential leads for your business by a
 ## What This Skill Does
 
 1. **Understands Your Business**: Analyzes your product/service, value proposition, and target market
-2. **Identifies Target Companies**: Finds companies that match your ideal customer profile based on:
+2. **Identifies Target Companies**: Finds companies that match your ideal customer profile based on
    - Industry and sector
    - Company size and location
    - Technology stack and tools they use
