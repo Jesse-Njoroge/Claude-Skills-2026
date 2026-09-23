@@ -32,7 +32,7 @@ This skill helps you identify and qualify potential leads for your business by a
 
 ### Basic Usage
 
-Simply describe your product/service and what you're looking for:
+Simply describe your product/service and what you're looking for::
 
 ```
 I'm building [product description]. Find me 10 companies in [location/industry] 
