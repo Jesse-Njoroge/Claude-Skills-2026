@@ -114,7 +114,7 @@ When a user requests lead research:
    Present results in a clear, scannable format:
 
    ```markdown
-   # Lead Research Results
+   # Lead Research Results.
    
    ## Summary
    - Total leads found: [X]
