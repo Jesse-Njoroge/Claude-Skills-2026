@@ -12,7 +12,7 @@ This skill transforms technical git commits into polished, user-friendly changel
 - Preparing release notes for a new version.
 - Creating weekly or monthly product update summaries.
 - Documenting changes for customers.
-- Writing changelog entries for app store submissions
+- Writing changelog entries for app store submissions.
 - Generating update notifications
 - Creating internal release documentation
 - Maintaining a public changelog/product updates page
