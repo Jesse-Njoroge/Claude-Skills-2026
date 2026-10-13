@@ -10,7 +10,7 @@ This skill transforms technical git commits into polished, user-friendly changel
 ## When to Use This Skill
 
 - Preparing release notes for a new version.
-- Creating weekly or monthly product update summaries
+- Creating weekly or monthly product update summaries.
 - Documenting changes for customers
 - Writing changelog entries for app store submissions
 - Generating update notifications
